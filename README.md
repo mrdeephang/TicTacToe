@@ -1,8 +1,6 @@
 # tictactoe
-
-# Tic Tac Toe (Flutter)
-
 This is a simple Tic Tac Toe game made using Flutter.
+
 ![Image](https://github.com/user-attachments/assets/6441df57-47c2-4ca1-a2bb-a6b6eedfa6f8)
 
 ## Features
